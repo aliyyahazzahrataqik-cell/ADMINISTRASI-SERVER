@@ -13,7 +13,7 @@
     - coba apakah default setting yg berlaku (sudo mysql -u root -p)
     - cek apakah masih ada database dummy (show database;)
 
-![alt text](image.png)
+![alt text](image-4.png)
 
 5. kita lakukan hardening security
     - masukan command (sudo mysql_secure_installation)
@@ -23,7 +23,7 @@
     - remove test database and access to it (Y)
     - reload privilege tables now? (Y)
 
-![alt text](image-1.png)
+![alt text](image-5.png)
 
 6. membuat database dan user 
     - membuat database untuk web company profile (create database dbCompro)
@@ -32,11 +32,11 @@
     - Flush Privilege (flush privileges;)
     - keluar dari MySQL (exit;)
 
-![alt text](image-2.png)
+![alt text](image-6.png)
 
 7. login sebagai user baru 
     - masukkan command (mysql -u userCompro -p)
     - masukkan password (***)
     - cek apakah password
 
-![alt text](image-3.png)
+![alt text](image-7.png)
