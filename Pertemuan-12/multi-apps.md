@@ -20,6 +20,6 @@
     - npm i
     - npm run dev 
 
-![alt text](<WhatsApp Image 2026-05-11 at 12.20.33 PM-2.jpeg>)
+![alt text](<WhatsApp Image 2026-05-11 at 12.19.43 PM.jpeg>)
 
 ![alt text](<WhatsApp Image 2026-05-11 at 12.18.52 PM.jpeg>)
