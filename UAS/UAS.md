@@ -33,7 +33,7 @@
 
 8. Buat secret_key di Github 
 
-![alt text](image-8.png)
+![alt text](image-17.png)
 
 9. Deploy web statis
 
@@ -64,5 +64,9 @@
     ![alt text](image-13.png)
     - Login Admin
     ![alt text](image-14.png)
+
+    username : admin
+    password : password
+    
     - Admin
     ![alt text](image-15.png) 
